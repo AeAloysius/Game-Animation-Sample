@@ -1,0 +1,39 @@
+# Ignore build/intermediate/generated files
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore compiled binaries
+Binaries/
+
+# Ignore project build outputs
+Build/*/
+
+# Ignore VS/IDE files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Ignore macOS/Windows system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore backup/autosave/temp
+*.bak
+*.tmp
+*.log
+*.tlog
+
+# Ignore packaged builds
+WindowsNoEditor/
+LinuxNoEditor/
+MacNoEditor/
+Android_ASTC/
+Android_ETC2/
+Android_DXT/
+IOS/
