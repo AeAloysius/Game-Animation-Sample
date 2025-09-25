@@ -2,7 +2,7 @@
 A third-person melee prototype built in Unreal Engine 5, featuring modular weapons, precise hit detection, stamina/poise systems, directional knockback with hit-stun, resettable light/heavy combo chains, 8-way rolls/backstep/guard, enemy lock-on with target switching, and an animation stack that combines Motion Matching with layered blends for smooth, natural transitions and reduced “mechanical” feel.
 
 ## Gameplay Screenshot
-![gameplay](https://github.com/AeAloysius/Game-Animation-Sample/blob/main/gas.jpg)
+![gameplay](https://github.com/AeAloysius/Game-Animation-Sample/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-09-23%20203059.png)
 
 ## Weapons & Hit Detection
 •	Modular BaseWeapon setup: socket-driven line/sphere traces for hits; applies damage + hit-stun + 4-direction knockback; montage-timed hitboxes.
